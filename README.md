@@ -1,2 +1,3 @@
 # oox
-Desenvolvimento das pesquisas ou produtos-serviços oox
+Desenvolvimento das pesquisas ou produtos-servicos oox
+Apos etapa de desenvolvimento de pesquisas (ex.: como eh a comunicacao aplicada as organizacoes exponenciais?; como eh o governo exponencial?) e de produtos-servicos (ex.: solucoes de comunicacao com alcance exponencial, atraves de compartilhamentos), oox deve se transformar numa plataforma (algo como interface premium com informacoes privilegiadas para impulsionar articulacao e eficiencia em gestao politica, permitindo projetos sairem do papel mais rapido, hackeando processos burocrativos de governos e permitindo a rapida implementacao de projetos nas mais distintas areas da saude, seguranca, educacao, mobilidade e infra-estrutura). 
